@@ -1,0 +1,14 @@
+1) abstraction is to hide information that is not relevant to context or rather show only relevant information and to simplify. In programming we hide Data and Functionality abstartion through object property and method.
+
+
+2) Polymorphism is the ability by which, we can create functions or reference variables which behaves differently in different programmatic context.
+In java language, polymorphism is essentially considered into two versions:
+Compile time polymorphism (static binding or method overloading)
+Runtime polymorphism (dynamic binding or method overriding)
+
+3) inheritance is a mechanism by which one object acquires the properties and behaviors of the parent object. It’s essentially creating a parent-child relationship between classes. In Java, you will use inheritance mainly for code re-usability and maintainability. Keyword “extends” is used to inherit a class in java. The “extends” keyword indicates that you are making a new class that derives from an existing class.
+
+4) Interface, is used to achieve total abstraction. Since java does not support multiple inheritance in case of class, but by using interface it can achieve multiple inheritance. It is also used to achieve loose coupling.
+
+5) Java Abstract class can implement interfaces without even providing the implementation of interface methods. Java Abstract class is used to provide common method implementation to all the subclasses or to provide default implementation.
+
